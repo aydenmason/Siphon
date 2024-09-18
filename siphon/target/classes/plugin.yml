@@ -1,0 +1,5 @@
+name: "siphon"
+version: 0.2
+main: me_ayden.SiphonPlugin
+author : ayden
+api-version : 1.21
