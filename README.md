@@ -60,7 +60,11 @@ store minecraft model
 log files 
 "sus" playerIDs
 
-go out to server owners offereing our services. business model TBD
+im trying to simulate cheater data. but i dont think its enough. 
+
+TODO: 
+need access to 'cheater data'  and 'clean' data. 
+business model
 
 
 
