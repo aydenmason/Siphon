@@ -30,6 +30,7 @@ make changes to plugin if needed.
 
 export by clicking the maven button on far right. then double click package
 notice the jar on the left side of your screen boxed in red. 
+![compile directs](./maven.png)
 
 put that in plugin directory on your server. 
 
